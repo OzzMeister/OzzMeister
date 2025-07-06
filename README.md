@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OzzMeister
+- 👋 Hi, I’m @Oscar
 - 👀 I’m interested in rope, oil and bombs
 - 🌱 I’m currently learning; how Github works
-- 💞️ I’m looking to collaborate on; human instrumentality
+- 💞️ I’m looking to collaborate on; Human instrumentality
 - 📫 How to reach me; not nesscesary, i will come to you
 
 <!---
